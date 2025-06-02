@@ -14,9 +14,7 @@ Name: Thadikonda Ramya
 
 Student id: 700762981
 
-
 Course: CS5720 Neural Networks and Deep Learning
-
 
 Instructor: I Hua Tsai 
 
